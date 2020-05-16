@@ -7,10 +7,10 @@
 * KMeans clustering --> the top teams can elevate their game in the 4th quarter
 
 ## Code and Resources Used 
-** Python Version:** 3.7  
-** Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium, sciPy 
-** Data: https://stats.nba.com/
-** structure and formatting of the project: https://github.com/PlayingNumbers/ds_salary_proj/blob/master/README.md
+* Python Version: 3.7  
+* Packages: pandas, numpy, sklearn, matplotlib, seaborn, selenium, sciPy 
+* Data: https://stats.nba.com/
+* structure and formatting of the project: https://github.com/PlayingNumbers/ds_salary_proj/blob/master/README.md
 
 ## Web Scraping
 scraped 4 tables (1st quarter, 2nd quarter, 3rd quarter, 4th quarter), each contain:
